@@ -1,0 +1,9 @@
+#First 10 natural number using while loop
+
+n=0
+while(n<10):
+    n= n+1
+    print(n)
+    
+    
+    
