@@ -1,2 +1,2 @@
 # Learning-Python
-Learning basics of Python
+From basics to advanced.
